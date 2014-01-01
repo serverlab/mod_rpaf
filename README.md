@@ -1,5 +1,10 @@
 http://www.fmc-modeling.org/category/projects/apache/amp/3_3Extending_Apache.html
-http://sebug.net/vuldb/ssvid-26061
+
+for test of env:
+
+http://www.securityfocus.com/bid/49303
+http://downloads.securityfocus.com/vulnerabilities/exploits/49303-2.c
+
 
 ## mod_rpaf - reverse proxy add forward
 
