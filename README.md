@@ -1,3 +1,6 @@
+http://www.fmc-modeling.org/category/projects/apache/amp/3_3Extending_Apache.html
+http://sebug.net/vuldb/ssvid-26061
+
 ## mod_rpaf - reverse proxy add forward
 
 ### Summary
